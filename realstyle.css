@@ -1,0 +1,27 @@
+body{
+	background-color: aliceblue;
+	color: grey;
+
+	font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; 
+	font-size: 16px; font-style: normal; 
+	font-variant: normal; font-weight: 400; 
+	line-height: 20px;
+}
+
+h2{
+	color: red
+}
+
+h3{
+	color: brown
+}
+
+.block1{
+	float: right;
+	padding: 10px;
+}
+.container{
+	width: 50%;
+	margin: auto;
+	background-color: lightcyan
+}
